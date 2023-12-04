@@ -1,7 +1,7 @@
 getgenv().RecurringPoint = "UpperTorso"
 getgenv().Hitbox = "UpperTorso"
 getgenv().Keybind = "q"
-getgenv().AimbotStrengthAmount = 0.7
+getgenv().AimbotStrengthAmount = 0.3
 getgenv().PredictionAmount = 5
 getgenv().Radius = 25
 getgenv().UsePrediction = true
